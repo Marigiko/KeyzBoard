@@ -27,6 +27,20 @@ Arch/Qtile + Windows).
    no flashing.
 5. Test, iterate. Keep the factory file untouched as recovery.
 
+## Photos & screenshots
+
+![Layers in Vial](docs/img/vial-layers.png)
+
+*The layout loaded in the Vial editor.*
+
+![The board](docs/img/keyboard.jpg)
+
+*The 4x12 ortholinear board running KeyzBoard.*
+
+> Screenshots pending: drop `docs/img/vial-layers.png` (Vial editor with the
+> layers visible) and `docs/img/keyboard.jpg` (a photo of the actual board)
+> into `docs/img/` to complete this section.
+
 ## Layer system
 
 | Layer | Trigger | Purpose |
